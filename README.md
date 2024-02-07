@@ -1,16 +1,13 @@
-# pr0702_2
+# Wardrobe Flutter
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Wardrobe.
 
-A few resources to get you started if this is your first Flutter project:
+Looks like this on mobile:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Looks like this in browser:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Looks like this on tablet:
