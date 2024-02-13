@@ -1,13 +1,16 @@
 # Wardrobe Flutter
 
-A new Flutter project.
+A Flutter project imitating a real wardrobe look.
 
-## Getting Started
+## Wardrobe.
 
 Wardrobe.
 
-Looks like this on mobile:
+Looks like this when it's in phone's limits:
+![Screenshot1](pics/Phone.png)
 
-Looks like this in browser:
+In tablet's limits:
+![Screenshot2](pics/Tablet.png)
 
-Looks like this on tablet:
+Just fullscreen:
+![Screenshot3](pics/Computer.png)
